@@ -10,7 +10,6 @@ I'm a passionate cybersecurity engineer with a keen interest in web and mobile a
 - Secure Coding Practices
 
 ###  Random Dev Meme
-<img src="https://www.icegif.com/wp-content/uploads/2022/12/icegif-499.gif" width="512px"/>
 
 ---
 [![](https://media.giphy.com/media/jd6TVgsph6w7e/giphy.gif?cid=82a1493bir7rcq1vwaprnnpj7qqswifscr7df27ts0go2c1v&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
